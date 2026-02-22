@@ -30,6 +30,9 @@ Output :
 Root Cause: element hidden or not loaded
 Suggested fix: add explicit wait
 
+## Demo
+
+![Demo](docs/demo.png)
 
 ## Author
 
