@@ -1,0 +1,4 @@
+TimeoutException: Element login-button not found
+DatabaseConnectionError: Could not connect to DB
+AssertionError: Expected status 200 but got 500
+ElementNotVisibleException: submit button hidden
